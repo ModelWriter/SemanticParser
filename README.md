@@ -2,7 +2,9 @@ Work Package 2
 ===
 **Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
 
-Product Backlog of WP2: https://waffle.io/ModelWriter/WP2
+[`Product Backlog of WP7`](https://waffle.io/ModelWriter/WP2)
+
+The product backlog itself is implemented in the [`issue tracker`](https://github.com/modelwriter/wp2/issues) of this repository
 
 **Objectives**
 
