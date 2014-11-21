@@ -2,6 +2,8 @@ Work Package 2
 ===
 **Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
 
+Product Backlog of WP2: https://waffle.io/ModelWriter/WP2
+
 **Objectives**
 
 The primary goal of this WP is to provide the `reversible semantic processor (parser and generator) component` of ModelWriter. This objective is broken down into the following sub-goals:
